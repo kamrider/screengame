@@ -2,9 +2,9 @@
 ..\obj\misc.o: ..\FWLIB\inc\misc.h
 ..\obj\misc.o: ..\USER\stm32f4xx.h
 ..\obj\misc.o: ..\CORE\core_cm4.h
-..\obj\misc.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\misc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\misc.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\misc.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\misc.o: F:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\misc.o: F:\keil\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\misc.o: ..\CORE\core_cm4_simd.h
 ..\obj\misc.o: ..\USER\system_stm32f4xx.h
 ..\obj\misc.o: ..\USER\stm32f4xx_conf.h

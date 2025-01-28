@@ -4,9 +4,9 @@
 ..\obj\picture.o: ..\SYSTEM\sys\sys.h
 ..\obj\picture.o: ..\USER\stm32f4xx.h
 ..\obj\picture.o: ..\CORE\core_cm4.h
-..\obj\picture.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\picture.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\picture.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\picture.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\picture.o: F:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\picture.o: F:\keil\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\picture.o: ..\CORE\core_cm4_simd.h
 ..\obj\picture.o: ..\USER\system_stm32f4xx.h
 ..\obj\picture.o: ..\USER\stm32f4xx_conf.h
@@ -37,4 +37,4 @@
 ..\obj\picture.o: ..\FWLIB\inc\stm32f4xx_dac.h
 ..\obj\picture.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
 ..\obj\picture.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
-..\obj\picture.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\picture.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h

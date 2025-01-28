@@ -374,7 +374,7 @@
               <MiscControls></MiscControls>
               <Define>STM32F40_41xxx,USE_STDPERIPH_DRIVER</Define>
               <Undefine></Undefine>
-              <IncludePath>..\CORE;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\USER;..\HARDWARE\LED;..\HARDWARE\LCD;..\HARDWARE\KEY;..\FWLIB\inc;..\HARDWARE\TOUCH;..\HARDWARE\GBK_LibDrive;..\HARDWARE\W25QXX;..\HARDWARE\SPI</IncludePath>
+              <IncludePath>..\CORE;..\SYSTEM\delay;..\SYSTEM\sys;..\SYSTEM\usart;..\USER;..\HARDWARE\LED;..\HARDWARE\LCD;..\HARDWARE\KEY;..\FWLIB\inc;..\HARDWARE\TOUCH;..\HARDWARE\GBK_LibDrive;..\HARDWARE\W25QXX;..\HARDWARE\SPI;..\lvgls;..\lvgls\lvgl;..\lvgls\lvgl\src;..\lvgls\lvgl\src\core;..\lvgls\lvgl\src\display;..\lvgls\lvgl\src\draw;..\lvgls\lvgl\src\drivers;..\lvgls\lvgl\src\font;..\lvgls\lvgl\src\indev;..\lvgls\lvgl\src\layouts;..\lvgls\lvgl\src\libs;..\lvgls\lvgl\src\misc;..\lvgls\lvgl\src\osal;..\lvgls\lvgl\src\others;..\lvgls\lvgl\src\stdlib;..\lvgls\lvgl\src\themes;..\lvgls\lvgl\src\tick;..\lvgls\lvgl\src\widgets;..\lvgls\lvgl\demos;..\lvgls\lvgl\demos\benchmark;..\lvgls\lvgl\demos\widgets;..\lvgls\lvgl\demos\scroll;..\lvgls\lvgl\demos\music</IncludePath>
             </VariousControls>
           </Cads>
           <Aads>

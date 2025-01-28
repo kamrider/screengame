@@ -3,9 +3,9 @@
 ..\obj\key.o: ..\SYSTEM\sys\sys.h
 ..\obj\key.o: ..\USER\stm32f4xx.h
 ..\obj\key.o: ..\CORE\core_cm4.h
-..\obj\key.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\key.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\key.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\key.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\key.o: F:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\key.o: F:\keil\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\key.o: ..\CORE\core_cm4_simd.h
 ..\obj\key.o: ..\USER\system_stm32f4xx.h
 ..\obj\key.o: ..\USER\stm32f4xx_conf.h

@@ -3,9 +3,9 @@
 ..\obj\dis_picture.o: ..\SYSTEM\sys\sys.h
 ..\obj\dis_picture.o: ..\USER\stm32f4xx.h
 ..\obj\dis_picture.o: ..\CORE\core_cm4.h
-..\obj\dis_picture.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\dis_picture.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\dis_picture.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\dis_picture.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\dis_picture.o: F:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\dis_picture.o: F:\keil\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\dis_picture.o: ..\CORE\core_cm4_simd.h
 ..\obj\dis_picture.o: ..\USER\system_stm32f4xx.h
 ..\obj\dis_picture.o: ..\USER\stm32f4xx_conf.h
@@ -38,8 +38,8 @@
 ..\obj\dis_picture.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\dis_picture.o: ..\HARDWARE\LCD\Dis_Picture.h
 ..\obj\dis_picture.o: ..\HARDWARE\LCD\lcd.h
-..\obj\dis_picture.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\dis_picture.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\dis_picture.o: ..\HARDWARE\LCD\Text.h
 ..\obj\dis_picture.o: ..\HARDWARE\LCD\font.h
-..\obj\dis_picture.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\dis_picture.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\dis_picture.o: ..\HARDWARE\LCD\Picture.h

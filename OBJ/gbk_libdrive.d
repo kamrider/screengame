@@ -3,9 +3,9 @@
 ..\obj\gbk_libdrive.o: ..\SYSTEM\sys\sys.h
 ..\obj\gbk_libdrive.o: ..\USER\stm32f4xx.h
 ..\obj\gbk_libdrive.o: ..\CORE\core_cm4.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\CMSIS\Include\core_cmInstr.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\CMSIS\Include\core_cmFunc.h
 ..\obj\gbk_libdrive.o: ..\CORE\core_cm4_simd.h
 ..\obj\gbk_libdrive.o: ..\USER\system_stm32f4xx.h
 ..\obj\gbk_libdrive.o: ..\USER\stm32f4xx_conf.h
@@ -37,8 +37,8 @@
 ..\obj\gbk_libdrive.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
 ..\obj\gbk_libdrive.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
 ..\obj\gbk_libdrive.o: ..\HARDWARE\LCD\lcd.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\ARMCC\Bin\..\include\stdlib.h
 ..\obj\gbk_libdrive.o: ..\SYSTEM\delay\delay.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\ARMCC\Bin\..\include\string.h
 ..\obj\gbk_libdrive.o: ..\SYSTEM\usart\usart.h
-..\obj\gbk_libdrive.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\gbk_libdrive.o: F:\keil\ARM\ARMCC\Bin\..\include\stdio.h
