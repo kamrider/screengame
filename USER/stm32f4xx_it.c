@@ -29,7 +29,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx_it.h"
- 
+#include "lv_tick.h"
 
 /** @addtogroup Template_Project
   * @{
@@ -141,7 +141,7 @@ void PendSV_Handler(void)
   */
 void SysTick_Handler(void)
 {
- 
+ lv_tick_inc(1);
 }
 
 /******************************************************************************/

@@ -35,3 +35,13 @@
 ..\obj\stm32f4xx_it.o: ..\FWLIB\inc\stm32f4xx_dac.h
 ..\obj\stm32f4xx_it.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
 ..\obj\stm32f4xx_it.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+..\obj\stm32f4xx_it.o: ..\lvgls\lvgl\src\tick\lv_tick.h
+..\obj\stm32f4xx_it.o: ..\lvgls\lvgl\src\tick\../lv_conf_internal.h
+..\obj\stm32f4xx_it.o: ..\lvgls\lvgl\src\tick\../lv_conf_kconfig.h
+..\obj\stm32f4xx_it.o: ..\lvgls\lvgl\src\tick\../../../lv_conf.h
+..\obj\stm32f4xx_it.o: ..\lvgls\lvgl\src\tick\../misc/lv_types.h
+..\obj\stm32f4xx_it.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\stm32f4xx_it.o: F:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\stm32f4xx_it.o: F:\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\stm32f4xx_it.o: F:\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\stm32f4xx_it.o: F:\keil\ARM\ARMCC\Bin\..\include\stdarg.h

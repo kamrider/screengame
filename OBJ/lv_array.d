@@ -1,0 +1,16 @@
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\lv_array.c
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\lv_array.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\lv_types.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\../lv_conf_internal.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\../lv_conf_kconfig.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\../../../lv_conf.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lv_array.o: F:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\../stdlib/lv_mem.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\../stdlib/lv_string.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\lv_assert.h
+..\obj\lv_array.o: ..\lvgls\lvgl\src\misc\lv_log.h

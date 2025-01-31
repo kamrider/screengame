@@ -1,0 +1,13 @@
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\lv_mem_core_rtthread.c
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../lv_mem.h
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../../lv_conf_internal.h
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../../lv_conf_kconfig.h
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../../../../lv_conf.h
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../lv_string.h
+..\obj\lv_mem_core_rtthread.o: ..\lvgls\lvgl\src\stdlib\rtthread\../../misc/lv_types.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\stddef.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\stdbool.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\inttypes.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\limits.h
+..\obj\lv_mem_core_rtthread.o: F:\keil\ARM\ARMCC\Bin\..\include\stdarg.h
