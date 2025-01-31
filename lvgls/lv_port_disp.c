@@ -4,7 +4,7 @@
  */
 
 /*Copy this file as "lv_port_disp.c" and set this value to "1" to enable content*/
-#if 0
+#if 1
 
 /*********************
  *      INCLUDES
@@ -99,6 +99,8 @@ void lv_port_disp_init(void)
 static void disp_init(void)
 {
     /*You code here*/
+	 	LCD_Init();					//LCD初始化 
+	  LCD_Display_Dir(1);	
 }
 
 volatile bool disp_flush_enabled = true;
@@ -124,17 +126,18 @@ void disp_disable_update(void)
 static void disp_flush(lv_display_t * disp_drv, const lv_area_t * area, uint8_t * px_map)
 {
     if(disp_flush_enabled) {
-        /*The most simple case (but also the slowest) to put all pixels to the screen one-by-one*/
+//        /*The most simple case (but also the slowest) to put all pixels to the screen one-by-one*/
 
-        int32_t x;
-        int32_t y;
-        for(y = area->y1; y <= area->y2; y++) {
-            for(x = area->x1; x <= area->x2; x++) {
-                /*Put a pixel to the display. For example:*/
-                /*put_px(x, y, *px_map)*/
-                px_map++;
-            }
-        }
+//        int32_t x;
+//        int32_t y;
+//        for(y = area->y1; y <= area->y2; y++) {
+//            for(x = area->x1; x <= area->x2; x++) {
+//                /*Put a pixel to the display. For example:*/
+//                /*put_px(x, y, *px_map)*/
+//                px_map++;
+//            }
+//        }
+		        LCD_Color_Fill(area->x1, area->y1, area->x2, area->y2, (uint16_t*)px_map);			//填充指定颜色
     }
 
     /*IMPORTANT!!!
