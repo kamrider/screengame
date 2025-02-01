@@ -1,0 +1,86 @@
+# STM32 编译输出文件
+*.o
+*.d
+*.crf
+*.htm
+*.dep
+*.map
+*.bak
+*.lnp
+*.lst
+*.ini
+*.iex
+*.sct
+*.uvguix.*
+*.uvoptx
+*.dbgconf
+
+# Keil MDK-ARM 项目文件和输出
+MDK-ARM/*
+!MDK-ARM/*.uvprojx
+!MDK-ARM/*.uvoptx
+!MDK-ARM/*.h
+!MDK-ARM/*.c
+!MDK-ARM/*.s
+!MDK-ARM/*.sct
+
+# STM32CubeMX 生成的临时文件
+.mxproject
+.project
+.cproject
+.settings/
+
+# 编译输出目录
+build/
+Debug/
+Release/
+Objects/
+Listings/
+
+# IDE 配置文件
+.vscode/
+.idea/
+*.launch
+
+# 临时文件
+.temp/
+*.tmp
+*.bak
+*.swp
+~*
+
+# 操作系统生成的文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 调试文件
+*.log
+JLinkLog.txt
+*.jlink
+*.swo
+*.swn
+
+# 其他二进制文件
+*.bin
+*.elf
+*.hex
+*.axf
+
+# 额外的备份文件
+*.orig
+*.rej
+
+# 一些额外的编译输出
+*.cout
+*.cyclo
+*.i
+*.crf
+
+# 如果使用IAR也需要忽略
+*.ewt
+*.ewd
+*.dep
+*.ewp
+*.pbi
+*.pbi.xcl 
