@@ -263,6 +263,7 @@
 "..\obj\img_demo_widgets_avatar.o"
 "..\obj\img_demo_widgets_needle.o"
 "..\obj\img_lvgl_logo.o"
+"..\obj\lv_100ask_2048.o"
 --library_type=microlib --strict --scatter "..\OBJ\TOUCH.sct"
 --summary_stderr --info summarysizes --map --xref --callgraph --symbols
 --info sizes --info totals --info unused --info veneers

@@ -11,8 +11,7 @@
 *.ini
 *.iex
 *.sct
-*.uvguix.*
-*.uvoptx
+
 *.dbgconf
 
 # Keil MDK-ARM 项目文件和输出
